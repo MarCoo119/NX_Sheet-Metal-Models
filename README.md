@@ -36,13 +36,3 @@ Portfolio and demonstration of CAD skills
 Siemens NX (Sheet Metal Design)
 
 Parametric sketching and feature-based modeling
-
-## 📖 Usage Instructions
-
-Clone or download the repository
-
-Open the files in Siemens NX
-
-Review folded parts and flat patterns
-
-Modify parameters as required
